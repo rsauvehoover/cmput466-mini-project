@@ -5,7 +5,6 @@ mini project for CMPUT 466, classifying weather data
 ### Requirements
 ```
 pip install pandas
-pip install tqdm
 pip install -U sklearn
 pip install numpy
 pip install matplotlib
