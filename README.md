@@ -36,3 +36,5 @@ The jupyter notebook contains the code and report, with both having been output 
 named `report.pdf`
 
 This README is just for explanation and installation instructions
+
+`weather_data.csv` is my input data, it consists of 350k rows of weather data from Edmonton city center between 1961 and 1994.
